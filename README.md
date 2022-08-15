@@ -1,6 +1,6 @@
 ## ICTerra Weather App
 
-* Coded by Gamze Yılan.
+* Coded & deployed by Gamze Yılan.
 * Used React, NodeJS and MongoDB.
 * The DB is on the Mongo Cloud, the app is on Heroku on "https://protected-escarpment-62566.herokuapp.com/", the backend is on https://limitless-lake-02513.herokuapp.com/.
 * Unit tests written using Jest on both front and back.
