@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 const mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 
-const dbURL = 'mongodb+srv://root:1234@cluster1.pbhqf06.mongodb.net/weather-app?retryWrites=true&w=majority';
+const dbURL = '';
 
 let router = express.Router();
 
