@@ -1,4 +1,4 @@
-## ICTerra Weather App
+## Weather App
 
 * Coded & deployed by Gamze Yılan.
 * Used React, NodeJS and MongoDB.
