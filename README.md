@@ -7,3 +7,7 @@
 * Documentation exists.
 * Dockerized both front and back.
 * If the city's weather data exists on the DB, draws from the DB. If not, goes to WeatherAPI api (integrated on the node backend) and draws from there. See: https://www.weatherapi.com/
+
+
+<br><br><br><br><br><br>
+Contact me on gamzeyilan1@gmail.com
